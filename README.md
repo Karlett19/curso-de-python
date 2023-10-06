@@ -8,3 +8,8 @@ En el tercer archivo tenemos teoría y ejemplos de los condicionales y algunos e
  ## Dia martes
 bucles: ejercicios básicos de bucles donde aprendimos la sintaxis de como hacerlos
 pandas: aprendimos a utilizar la librería
+
+## Dia miercoles
+
+## Día jueves
+spacex 1: trabajo de limpieza y visualización de datos
